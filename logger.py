@@ -1,4 +1,3 @@
-#create keylogger that logs keystrokes to a file
 
 import pynput.keyboard
 import threading
